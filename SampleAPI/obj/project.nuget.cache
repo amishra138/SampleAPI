@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cmdKT2ck0HncvQfyaWDeTKPy14utJrx9GvkannXiU36A6sJdjumkDFX0wdTH3Z4CeKhQcbeI9ehct/XQ/MSyBw==",
+  "dgSpecHash": "RwEENwzLGS3CyioNX0t/K6GdNeSLOdZj3lL/Gt9DCLFh3dHKP9sUbTYXY0DAxA0/nwXH+Kr32zUBeDljjL4gsg==",
   "success": true,
   "projectFilePath": "D:\\Source\\SampleAPI\\SampleAPI\\SampleAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arvindm\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\arvindm\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\arvindm\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
     "C:\\Users\\arvindm\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
     "C:\\Users\\arvindm\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
     "C:\\Users\\arvindm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
